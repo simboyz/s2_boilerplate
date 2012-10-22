@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Author : Han Seob Sim
+   ========================================================================== */
+
+/*
+ * Start Your Style From Here
+ */
+@import url("bootstrap.min.css");
+@import url("bootstrap-responsive.min.css");
+
+@font-face{
+  font-family: 'NanumGothicWeb';
+  src: url('../fonts/NanumGothic.ttf'); 
+}
+
+html, body {
+    font-family: 'NanumGothicWeb', Arial, Helvetica, sans-serif;
+}
